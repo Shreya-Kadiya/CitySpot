@@ -128,24 +128,6 @@ CitySpot is being designed with future IoT support in mind, enabling real-time p
 
 * Google Maps Integration
 
----
-
-## 🏗️ Project Structure
-
-```text
-lib/
-├── core/
-├── features/
-│   ├── auth/
-│   ├── home/
-│   ├── parking/
-│   ├── booking/
-│   ├── owner/
-│   └── profile/
-├── shared/
-├── routes/
-└── main.dart
-```
 
 ---
 
@@ -189,6 +171,3 @@ CitySpot aims to become a scalable smart parking ecosystem that helps cities, co
 
 ---
 
-### Built with Flutter ❤️
-
-### Developed as part of the CitySpot Smart Parking Initiative
