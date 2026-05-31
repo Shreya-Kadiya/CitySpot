@@ -66,7 +66,6 @@ CitySpot is designed to support various vehicle categories:
 * Auto Rickshaws
 
 ---
-
 ## 🏢 Parking Spaces Supported
 
 The platform can be used across different environments:
